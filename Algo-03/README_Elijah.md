@@ -2,7 +2,7 @@
 
 Name: [John Elijah B. Ferrer]
 Partners: [Mark Beckens, Sarah Imhoff]
-Shared repository: [URL]
+Shared repository: [https://github.com/ElijahFer7120/ALGO_AL03_PROJECT_MARK_ELI_SARAH.git]
 My contribution: [coding in stuff for monday]
 
 ## Run
