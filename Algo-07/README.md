@@ -25,8 +25,7 @@ Shared code/results are allowed; these observations are in your own words.
 
 ## Assistance
 
-[Identify supplied files and other help. For AI, name the task/tool and what you
-checked, changed, or rejected. No AI use is required.]
+[Had Ai assist with explaining certain terms and concepts and how to code in certain strings]
 
 ## Instructor Comments
 
